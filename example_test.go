@@ -18,7 +18,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/xi2/xz"
+	"github.com/jelmervdl/xz"
 )
 
 func ExampleNewReader() {

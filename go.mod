@@ -1,3 +1,3 @@
-module github.com/xi2/xz
+module github.com/jelmervdl/xz
 
 go 1.15
